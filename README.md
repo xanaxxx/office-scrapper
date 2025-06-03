@@ -19,5 +19,7 @@
 # Build and Test
 use this command: python main.py
 
+# Architecture
 
+This is a hexagonal if you want to add more adapters you just need to add to adaptador_entrada
 
